@@ -1938,10 +1938,111 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2e643155840140158e83cc97886deb0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  column1: []
-  column2: []
-  column3: []
-  column4: []
+  column1:
+  - Why do programmers always mix up Halloween and Christmas? Because Oct 31 equals
+    Dec 25.
+  - "There are 10 types of people in the world: those who understand binary and those
+    who don\uFFFDt."
+  - "Why was the JavaScript developer sad? Because he didn\uFFFDt Node how to Express
+    himself."
+  - "I told my friend 10 jokes about binary. Sadly, he didn\uFFFDt laugh at 2 of
+    them."
+  - Why do Java developers wear glasses? Because they can't C#!.
+  - Programming is like writing a book... except if you miss a single comma on page
+    126, the whole thing makes no sense.
+  - Why do programmers hate nature? It has too many bugs.
+  - How do you comfort a JavaScript bug? You console it.
+  - Why did the programmer quit his job? Because he didn't get arrays.
+  - Why was the computer cold? It left its Windows open.
+  - What's a programmer's favorite hangout place? Foo Bar.
+  - Why do programmers prefer iOS to Android? Because when they can't solve a problem,
+    they just iSolve.
+  - How do programmers start a race? On your mark, get set, code!
+  - Why don't programmers like to go outside? The glare on their screens makes it
+    hard to see the bugs.
+  - I had a joke about time travel, but you guys didn't like it.
+  - Why do programmers prefer dark mode? Because light attracts bugs.
+  - Why are assembly programmers always soaking wet? They work below C-level.
+  - How do programmers open doors? They use a keylogger.
+  - Why was the developer unhappy at the job? He wanted arrays, but they kept giving
+    him strings.
+  - What do you call a programmer from Scandinavia? Nerdic.
+  column2:
+  - What is fast, loud, and crunchy? A rocket chip!
+  - Why was the math book sad? Because it had too many problems.
+  - Why did the kid throw his clock out the window? He wanted to see time fly!
+  - What do you call an alligator in a vest? An investigator!
+  - Why don't scientists trust atoms? Because they make up everything!
+  - What do you get when you cross a snowman and a vampire? Frostbite.
+  - Why did the bicycle fall over? Because it was two-tired!
+  - What do you call a bear with no teeth? A gummy bear!
+  - How do you catch a squirrel? Climb a tree and act like a nut!
+  - Why did the tomato turn red? Because it saw the salad dressing.
+  - What's orange and sounds like a parrot? A carrot!
+  - What do you call cheese that isn't yours? Nacho cheese!
+  - Why did the golfer bring two pairs of pants? In case he got a hole in one.
+  - What do you call a fake noodle? An impasta!
+  - Why did the scarecrow win an award? Because he was outstanding in his field!
+  - How do you make a tissue dance? Put a little boogie in it!
+  - What did the zero say to the eight? Nice belt!
+  - What do you call a sleeping bull? A bulldozer!
+  - Why couldn't the bicycle stand up by itself? It was two tired.
+  - What do you call a pile of cats? A meowtain.
+  column3:
+  - I told my wife she should embrace her mistakes. She gave me a hug.
+  - I finally got eight hours of sleep. It took me three days, but whatever.
+  - You know you're getting old when your back goes out more than you do.
+  - I'm reading a book on anti-gravity. It's impossible to put down.
+  - "Age is an issue of mind over matter. If you don\uFFFDt mind, it doesn\uFFFDt
+    matter."
+  - I've reached an age where my train of thought often leaves the station without
+    me.
+  - You know you're getting old when the candles cost more than the cake.
+  - I don't feel old. I don't feel anything until noon.
+  - As I've gotten older, I've decided to start recycling. I'm using the same candles
+    for all my birthdays now.
+  - They say age is just a number. Yeah, and jail is just a room!
+  - "You know you\uFFFDre old when you turn down the lights to be economical instead
+    of romantic."
+  - You're not old, you're just... chronologically gifted!
+  - I'm at an age where my back goes out more than I do.
+  - Old age is coming at a really bad time!
+  - "When I was young, I felt like a man trapped inside a woman\uFFFDs body. Then
+    I was born."
+  - The best part about being over 40 is we did most of our stupid stuff before the
+    internet.
+  - "I\uFFFDm at a point in my life where my back goes out more than I do."
+  - "At my age, I don\uFFFDt really give advice. I just share what were bad ideas."
+  - "I don\uFFFDt call them gray hairs. I call them my wisdom highlights."
+  - "You know you\uFFFDre getting old when the little old gray-haired lady you helped
+    across the street is your wife."
+  column4:
+  - Why do bodybuilders always carry a blender? Just in case they get a chance to
+    mix up their routine!
+  - "I wear black to the gym because it\uFFFDs like a funeral for my fat."
+  - Why do bodybuilders make terrible wizards? They can't work their magic on cheat
+    days.
+  - My gym locker is like a fridge, because that's where I store all my whey.
+  - How many bodybuilders does it take to screw in a light bulb? Six. One to screw
+    it in and five to tell him how much better they could've done it.
+  - If at first you don't succeed at the gym, try, try a rep!
+  - Why was the gym evacuated? Because of a dumbbell fire alarm.
+  - What's a bodybuilder's favorite element? Brotein.
+  - "Why don\uFFFDt bodybuilders get into fights? They don\uFFFDt want to lose their
+    gains."
+  - How do bodybuilders make their coffee? With muscle milk.
+  - I told my girlfriend she was drawing her eyebrows too high. She looked surprised.
+  - Why was the dumbbell getting smarter? It was gaining intelligence.
+  - Why do bodybuilders eat so many chicken breasts? Because their pecks aren't big
+    enough.
+  - "I don\uFFFDt believe in bodybuilding. My body is built, I just need to paint
+    it."
+  - Why did the personal trainer break up with his girlfriend? Lack of gains.
+  - A bodybuilder broke up with his dumbbell set. It just wasn't working out.
+  - What's a bodybuilder's favorite book? 'The Lord of the Reps.'
+  - How does a bodybuilder take a selfie? With a muscle memory card.
+  - Why did the bodybuilder become a baker? He wanted to knead the dough.
+  - Why don't bodybuilders trust stairs? Because they're always up to something.
 --- !u!4 &1583437786
 Transform:
   m_ObjectHideFlags: 0
